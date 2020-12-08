@@ -10,10 +10,11 @@
 
   - https://github.com/aqualinkorg/aqualink-app/issues/380
 
-### My chosen problem
+## My chosen problem
   - [https://github.com/joeyouss/Felicity/pulls]
 
-  link to pull request: [https://github.com/joeyouss/Felicity/pull/12]
+  link to pull request: 
+  - [https://github.com/joeyouss/Felicity/pull/12]
 
 ### Witnessed list
   - Jina Hwuang
