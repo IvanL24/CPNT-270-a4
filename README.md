@@ -13,6 +13,10 @@
 ## My chosen problem
   - [https://github.com/joeyouss/Felicity/pulls]
 
+  Issue: insert a favicon
+    - used FontAwesome to find a logo that fits the website
+    - linked it to head
+
   link to pull request: 
   - [https://github.com/joeyouss/Felicity/pull/12]
 
