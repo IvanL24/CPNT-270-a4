@@ -16,7 +16,11 @@
   link to pull request: 
   - [https://github.com/joeyouss/Felicity/pull/12]
 
-### Witnessed list
+### Witnessed:
   - Jina Hwuang
   - Ariel Zhang
-  - 
+
+### Witnessed by:
+  - Jina Hwuang
+  - Ariel Zhang
+  - Jayden Tweedie
