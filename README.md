@@ -1,7 +1,7 @@
 ## CPNT-270
 ###  Assignment 4 : Fork and Fix
 
-### Ivan Lavena
+### (Ivan Lavena)[https://github.com/IvanL24]
 
 ## Interesting Open- sources
   - https://github.com/hyunjiLeeTech/BookEat/issues/39
