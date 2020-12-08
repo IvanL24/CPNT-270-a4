@@ -16,4 +16,6 @@
   link to pull request: [https://github.com/joeyouss/Felicity/pull/12]
 
 ### Witnessed list
+  - Jina Hwuang
+  - Ariel Zhang
   - 
